@@ -1,1 +1,1 @@
-module "github.com/vgotest1/v2"
+module "github.com/vgotest1"

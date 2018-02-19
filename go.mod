@@ -1,1 +1,1 @@
-module "github.com/rsc/vgotest1/v2" // root go.mod
+module "github.com/rsc/vgotest1" // root go.mod
